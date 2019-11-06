@@ -1,7 +1,6 @@
 from tkinter import *
 import tkinter as tk
 
-import drill_gui121
 
 class ParentWindow(Frame):
     def __init__(self, master, *args, **kwargs):
